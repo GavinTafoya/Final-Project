@@ -1,0 +1,4 @@
+In 2 - 3 sentences, please explain what data visualization you choose to edit and why?
+I chose to edit the area graph visualization. I chose this one because I felt it would best fir my 
+
+What modifications did you make to your data visualization? Please list all of them.
