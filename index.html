@@ -31,7 +31,7 @@
         
           // When reading the csv, I must format variables:
           function(d){
-            let obj = { gunName : d.Weapon, type : d.Type, chapter : d["First Chapter"], magCap : d["Magazine Capacity"], ammoCap : d["Ammo Capacity"], game1 : d["Game 1"], game2 : d["Game 2"], game3 : d["Game 3"], gameGA : d["Game GA"], game4 : d["Game 4"], game5 : d["Game 5"]}
+            let obj = { gunName : d.Weapon, type : d.Type, chapter : d.Chapter, magCap : d["Magazine Capacity"], ammoCap : d["Ammo Capacity"], game1 : d["Game 1"], game2 : d["Game 2"], game3 : d["Game 3"], gameGA : d["Game GA"], game4 : d["Game 4"], game5 : d["Game 5"]}
             console.log(obj)
             return obj
           },
