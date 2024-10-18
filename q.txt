@@ -1,4 +1,5 @@
 In 2 - 3 sentences, please explain what data visualization you choose to edit and why?
-I chose to edit the area graph visualization. I chose this one because I felt it would best fir my 
+I chose to edit the area graph visualization. I chose this one because I felt it would best fit my data on guns in uncharted at first. 
 
 What modifications did you make to your data visualization? Please list all of them.
+I made the visualization use my data and that is essentially it because I was fighting with d3 errors for the hour.
