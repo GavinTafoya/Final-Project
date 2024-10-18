@@ -1,4 +1,4 @@
-Weapon,Type,Chapter,Magazine Capacity,Ammo Capacity,Game 1,Game 2,Game 3,Game GA,Game 4,Game 5
+Weapon,Type,Chapter,Magazine,Ammo,Game1,Game2,Game3,GameGA,Game4,Game5
 Turret,Gimmick,Ambushed,500,500,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE
 GAU-19,Gimmick,A Train to Catch,500,500,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
 DHhK,Gimmick,New Devon,250,250,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
